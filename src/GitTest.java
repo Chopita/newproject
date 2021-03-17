@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("100");
         System.out.println("Cholpon");
         System.out.println("Naza");
+        System.out.println("Scrumrunner Branch");
     }
 }
